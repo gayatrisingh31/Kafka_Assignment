@@ -1,0 +1,5 @@
+com/Shashikant/Producer.class
+com/Shashikant/Consumer.class
+com/Shashikant/ConsumerListener.class
+com/Shashikant/serializer/UserSerializer.class
+com/Shashikant/serializer/UserDeserializer.class

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/premonr/PreMonR-pipeline" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/slick-lagom-integration" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/TrailBlazer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Trailblazer/online-auction-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/demo/TrailBlazer" value="PREVIEW" />
+        <entry key="$USER_HOME$/lf-lms" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../codesquad/core/scala-test-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/TrailBlazer" value="PREVIEW" />
+        <entry key="$USER_HOME$/xcel-energy/workspace/lagom-scala-sbt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>

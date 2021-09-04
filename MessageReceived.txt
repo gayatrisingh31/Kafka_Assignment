@@ -1,0 +1,6 @@
+{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
+{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
+{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
+{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
+{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
+{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
