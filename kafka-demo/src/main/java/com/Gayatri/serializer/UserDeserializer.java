@@ -1,7 +1,7 @@
-package com.Shashikant.serializer;
+package com.Gayatri.serializer;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.Shashikant.User_File;
+import com.Gayatri.User_File;
 import org.apache.kafka.common.serialization.Deserializer;
 
 import java.util.Map;

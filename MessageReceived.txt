@@ -1,6 +1,2 @@
-{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
-{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
-{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
-{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
-{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
-{"id":1,"name":"Shashikant Tyagi","course":"BTech."}
+{"id":1,"name":"Gayatri singh","course":"BTech."}
+{"id":1,"name":"Gayatri singh","course":"BTech."}

@@ -3,3 +3,4 @@ com/Shashikant/Consumer.class
 com/Shashikant/ConsumerListener.class
 com/Shashikant/serializer/UserSerializer.class
 com/Shashikant/serializer/UserDeserializer.class
+com/Shashikant/User_File.class

@@ -1,4 +1,4 @@
-package com.Shashikant;
+package com.Gayatri;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
@@ -21,7 +21,7 @@ public class Consumer {
         Properties properties = new Properties();
         properties.put("bootstrap.servers", "localhost:9092");
         properties.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
-        properties.put("value.deserializer", "com.Shashikant.serializer.UserDeserializer");
+        properties.put("value.deserializer", "com.Gayatri.serializer.UserDeserializer");
         properties.put("group.id", "test-group");
 
 
